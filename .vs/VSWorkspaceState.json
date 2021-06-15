@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FeatureWeb",
+    "\\FeatureWeb\\Controllers",
+    "\\FeatureWeb\\Views",
+    "\\FeatureWeb\\Views\\Home",
+    "\\FeatureWeb\\Views\\Shared"
+  ],
+  "SelectedNode": "\\FeatureWeb\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
